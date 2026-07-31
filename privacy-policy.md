@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 2026-05-22
+Last updated: 2026-07-31
 
 This privacy policy explains how AI Tomo Connection handles user data.
 
@@ -31,7 +31,8 @@ We use data to:
 The app may send necessary data to the following services:
 
 - OpenAI: to generate AI chat replies and related text
-- Google Play: to verify Android purchases and subscriptions
+- Apple App Store: to process and verify iOS purchases and subscriptions
+- Google Play: to process and verify Android purchases and subscriptions
 - Expo: to deliver push notifications and support app builds
 - Hosting provider: to run the backend server
 
@@ -43,11 +44,11 @@ Images selected by the user may be stored locally or in app/server storage for A
 
 ## Purchases
 
-Payment information such as credit card numbers is handled by Google Play or other payment providers. The app receives only purchase verification data and entitlement status.
+Payment information such as credit card numbers is handled by Apple, Google Play, or another payment provider. The app receives only purchase verification data and entitlement status.
 
 ## Data Deletion
 
-Users can delete AI Tomo data in the app. Full account deletion can be requested through the support contact below until an in-app account deletion flow is added.
+Users can delete local save data or permanently delete their cloud account from the app's Settings screen. Account deletion removes the cloud profile, AI Tomo data, balances, conversations, and local save data associated with the anonymous device account. Purchase transaction identifiers may be retained where necessary to prevent duplicate entitlement grants, fraud, or to meet legal obligations. Deleting an account does not cancel an App Store or Google Play subscription; subscriptions must be cancelled in the applicable store.
 
 ## Children
 

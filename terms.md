@@ -1,6 +1,6 @@
 # Terms of Use
 
-Last updated: 2026-05-22
+Last updated: 2026-07-31
 
 These terms apply to AI Tomo Connection.
 
@@ -27,7 +27,7 @@ Users must not:
 
 The app may provide paid items such as Love Gems, AI Tomo slot unlocks, and subscriptions.
 
-Purchases are processed through Google Play or other payment providers. Refunds and cancellations follow the rules of each payment provider.
+Purchases are processed through the Apple App Store, Google Play, or another disclosed payment provider. Subscriptions renew automatically unless cancelled through the applicable store. Refunds and cancellations follow the rules of the payment provider.
 
 ## Usage Limits
 
